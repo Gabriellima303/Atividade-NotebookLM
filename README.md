@@ -1,3 +1,4 @@
+Link do NotebookLM : https://notebook.google.com/notebook/1dddf72f-2bd2-4906-bb47-4b4fc9e00e4a
 # Atividade-NotebookLM
 
 Atividade sobre IA Generativa e Machine Learn, onde foi ensinado a IA sobre regras do Shogi.
