@@ -270,6 +270,8 @@ Seu Dragão captura a casa 21
 
 Aqui percebi que a ia pula algumas jogadas como foi a captura do peão.
 
+Expliquei os erros da IA mas ela continuava apresentando alguns erros, mas percebi que foi diminuindo a quantidade de erros
+
 
  Guia de Estudo
  
